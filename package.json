@@ -1,0 +1,15 @@
+{
+  "name": "social-media-queries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ptrthegr8/social-media-queries.git",
+  "author": "Peter Marsh <p.marsh@mac.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pg": "^7.4.3"
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
+}
